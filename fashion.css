@@ -1,0 +1,155 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 100px 200px 0 200px;
+    overflow: auto;
+}
+
+
+
+
+
+
+ ul{
+    float: right;
+    color: white;
+}
+li{
+    margin-right: 50px;
+    letter-spacing: 2px;
+    display: inline;
+    
+}
+a:hover{
+    color: rgb(115, 115, 241);
+    
+}
+a{
+    text-transform: uppercase;
+    color: #ccc;
+    text-decoration: none;
+}
+
+
+
+
+
+header{
+    background-image: url(../imagens/primeiratop.jpg);
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size:cover;
+    height: 600px;
+    position: relative;
+}
+.divfashion{
+    position: absolute;
+    left: 150px;
+    padding: 5px;
+}
+
+
+
+
+
+
+.newfashion{
+    text-align: center;
+    letter-spacing: 1px; 
+    padding-top: 40px;
+    
+}
+
+
+
+
+
+
+article{
+         padding-top: 80px;
+}
+.divimg{
+    display: inline-block;
+    width: 24%;
+    margin-left: 7%;
+}
+img{
+    width: 100%;
+}
+
+.p1{
+    text-align: center;
+    font-size: 15px;
+    font-style: italic;
+}
+h3{
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+
+
+
+
+.section{
+    background-image: url(../imagens/bg_detalhe.png);
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size:cover;
+    height: 600px;
+    position: relative;
+    border: 1px solid transparent;
+    margin-top: 90px;
+}
+h1{
+    text-transform: uppercase;
+    color: white;
+    margin: 120px 0px 0px 90px;
+    font-size: 50px;
+}
+.p2{
+    color: white;
+    text-align: left;
+    margin: 40px 0px 0px 90px;
+    font-style: italic;
+}
+
+
+
+
+
+
+.h2tel{
+    text-align: center;
+    margin: 45px 0px 45px 0px;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: rgb(3, 49, 110) ;
+}
+
+
+
+
+
+
+.sectionmap{
+    text-align: center;
+    padding: 0px 50px 0px 50px;
+}
+
+
+
+
+
+
+footer{
+    text-align: center;
+    letter-spacing: 3px;
+    border: 1px solid black;
+    padding: 30px;
+    margin: 30px 0px 20px 0px ;
+    color: rgb(192, 180, 180);
+    background:rgb(8, 32, 65)  ;
+}
+
+
